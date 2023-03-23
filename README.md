@@ -15,7 +15,7 @@ Mission to teach students how to use SASS correctly!
 
 **Claire Chen, Emma Shen, Grace Wang, Claire Zhao, Luna Iwazaki, Annika Liao**
 
-## Team Roles
+### Team Roles
 
 **Product Owner:** Luna
 
