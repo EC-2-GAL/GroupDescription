@@ -14,3 +14,13 @@ Mission to teach students how to use SASS correctly!
 - Everyone's best interest!
 
 **Claire Chen, Emma Shen, Grace Wang, Claire Zhao, Luna Iwazaki, Annika Liao**
+
+## Team Roles
+
+**Product Owner:** Luna
+
+**Technical Lead:** Grace
+
+**SCRUM Master:** Emma
+
+**Developers:** Claire Z, Claire C, Annika, Ellie
