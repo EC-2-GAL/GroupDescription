@@ -2,6 +2,8 @@
 
 Mission to teach students how to use SASS correctly!
 
+---
+
 ### AGLIE
 
 **Through our own experience and that of others, we are learning more effective ways to create software. We've developed a sense of value for this job, and strive to have:**
@@ -14,6 +16,8 @@ Mission to teach students how to use SASS correctly!
 - Everyone's best interest!
 
 **Claire Chen, Emma Shen, Grace Wang, Claire Zhao, Luna Iwazaki, Annika Liao**
+
+---
 
 ### Team Roles
 
